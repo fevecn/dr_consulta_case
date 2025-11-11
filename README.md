@@ -8,3 +8,5 @@ Pergunta 2 - Analise de Mercado do setor elétrico
 
 Pergunta 3 - Previsão do PLD com XGBoost
 
+Está tudo em Jupyter Notebook com as visualizações, análises, métricas, resultados, modelos etc.
+
